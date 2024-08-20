@@ -3,7 +3,7 @@ import json
 import requests
 
 url = 'https://rest.iad-06.braze.com/users/delete'
-API_KEY = 'Bearer 8fbe8e86-f74b-4e20-b1f3-72790336a69b'
+API_KEY = 'Bearer api_key'
 
 headers = {
     'Content-Type': 'application/json',
